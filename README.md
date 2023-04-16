@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jtwulf</h1>
 <h3 align="center">Japanese university student studying CS. Working as a server-side engineer from April 2024.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
