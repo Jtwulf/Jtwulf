@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jtwulf</h1>
-<h3 align="center">Japanese university student studying CS. Working as a backend engineer from April 2024.</h3>
+<h3 align="center">University student studying CS. Working as a Backend Engineer from April 2024.</h3>
 
 <p align="left">
 </p>
