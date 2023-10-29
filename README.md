@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jtwulf</h1>
+<h1 align="center">Hi 👋, I'm Justin Wulf</h1>
 <h3 align="center">University student studying CS. Working as a Backend Engineer from april 2024.</h3>
 
 <p align="left">
